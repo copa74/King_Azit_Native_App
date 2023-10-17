@@ -70,7 +70,7 @@ export function SignUpCertification({navigation}: SignInScreenProps) {
         <View style={SignUpstyles.center}>
           <BottomButton
             onPress={NextButton}
-            title="SNS 인증코드 받기"
+            title="SNS 인증코드 받기2"
             backgroundColor={name && phoneNum ? '#F5FF82' : '#808080'}
             color="#000"
           />
